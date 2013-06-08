@@ -31,7 +31,7 @@ import com.android.internal.telephony.cdma.CdmaCallWaitingNotification;
 import com.android.internal.telephony.cdma.CdmaInformationRecords.CdmaDisplayInfoRec;
 import com.android.internal.telephony.cdma.CdmaInformationRecords.CdmaSignalInfoRec;
 import com.android.internal.telephony.cdma.SignalToneUtil;
-import com.android.internal.telephony.CallManager;	33
+import com.android.internal.telephony.CallManager;
 import com.android.phone.CallFeaturesSetting;
 
 import android.app.ActivityManagerNative;
